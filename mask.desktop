@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=mask
+Exec=qmlscene $@ Main.qml
+Icon=mask.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

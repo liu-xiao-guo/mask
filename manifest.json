@@ -1,0 +1,17 @@
+{
+    "name": "mask.liu-xiao-guo",
+    "description": "description of mask",
+    "architecture": "all",
+    "title": "mask",
+    "hooks": {
+        "mask": {
+            "apparmor": "mask.apparmor",
+            "desktop":  "mask.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
